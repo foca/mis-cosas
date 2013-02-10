@@ -11,3 +11,5 @@ durante los años. Así que me deshago de todo.
 Si te interesa algo puedes dejarme un comentario aquí,
 [mandarme un mail](mailto:hi@nicolassanguinetti.info) o un
 mensaje en [facebook](http://facebook.com/godfoca).
+
+[list](http://github.com/foca/mis-cosas/issues/1)
